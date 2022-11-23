@@ -1,0 +1,15 @@
+192.168.1.1 will be forwarded on the directly connected network on interface E0.
+192.168.3.2 will be forwarded to 192.168.5.2 out on interface S1.
+200.56.45.89 will be forwarded to 192.168.4.2 out on interface S0.
+255.0.0.0 is malformed; discarded.
+127.0.0.1 is loopback; discarded.
+192.168.2.2 will be forwarded to 192.168.5.2 out on interface S1.
+192.168.3.2 will be forwarded to 192.168.5.2 out on interface S1.
+192.168.10.45 will be forwarded to 192.168.4.2 out on interface S0.
+192.168.6.34 will be forwarded to 192.168.4.2 out on interface S0.
+192.168.0.15 will be forwarded to 192.168.4.2 out on interface S0.
+192.168.4.3 will be forwarded on the directly connected network on interface S0.
+192.168.5.79 will be forwarded on the directly connected network on interface S1.
+10.5.6.7 will be forwarded to 192.168.4.2 out on interface S0.
+172.3.4.5 will be forwarded to 192.168.4.2 out on interface S0.
+192.168.0.192 will be forwarded to 192.168.4.2 out on interface S0.
